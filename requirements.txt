@@ -1,0 +1,13 @@
+httpx
+fastapi
+sqlalchemy
+pytest-asyncio
+aiosqlite
+pydantic
+pytest
+black
+flake8
+flake8-bugbear
+flake8-pie
+isort
+mypy
